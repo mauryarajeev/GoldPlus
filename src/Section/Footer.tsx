@@ -146,7 +146,7 @@ const Footer: React.FC = () => {
 // Main App Component
 const App: React.FC = () => {
   return (
-    <div className="px-8">
+    <div className="">
       {/* Header Section */}
       <HeaderSection />
       {/* Main Content */}
