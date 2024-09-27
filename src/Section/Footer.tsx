@@ -16,7 +16,7 @@ const HeaderSection: React.FC = () => {
 // Content Section - About Gold Savings Scheme and Features
 const ContentSection: React.FC = () => {
   return (
-    <div className="bg-[#FFF8E7] py-16">
+    <div className="bg-[#FFF8E7] py-16 px-8">
       <div className="max-w-7xl mx-auto px-6 lg:px-0 space-y-12 text-gray-900">
         {/* What is a Gold Savings Scheme */}
         <div className="space-y-6">
