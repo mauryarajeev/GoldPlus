@@ -1,7 +1,7 @@
 
 ### 1. Deployment link
 
-- **URL**: [https://toiya-assigment.vercel.app/)
+- **URL**: [https://gold-plus.vercel.app/)
 
 
 ## Getting Started
